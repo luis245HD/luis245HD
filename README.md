@@ -1,16 +1,23 @@
-## Hi there 👋
+ Luis Angel Hernandez Duarte
 
-<!--
-**luis245HD/luis245HD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Tecnologías de la Información  
+💻 Enfoque en Desarrollo Backend  y Aplicaciones Web  
+🚀 Interesado en APIs REST y aplicaciones web
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías
+- Python
+- Flask
+- SQL
+- MySQL
+- JavaScript
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos Destacados
+- 📚 Sistema de Gestión de Biblioteca (Flask + MySQL)
+- 🌐 Aplicación Web Integrador (Python + web.py)
+- 🚀 NASA Public API Client
+
+## 📫 Contacto
+- Email:a36191257@gmail.com
+
+  
